@@ -9,3 +9,8 @@ setting the following environment variables:
 * `ACTIVEMQ_PORT`
 * `ACTIVEMQ_USER`
 * `ACTIVEMQ_PASSWORD`
+
+# Running the App
+
+* First run Consumer.java
+* Then Producer.java
